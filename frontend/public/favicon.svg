@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#2480FA"
+   version="1.1"
+   id="Ebene_1"
+   width="800px"
+   height="800px"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 64 64"
+   xml:space="preserve"
+   stroke="#2480FA"
+   sodipodi:docname="sunny-icon.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" /><sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.5475"
+   inkscape:cx="398.17352"
+   inkscape:cy="498.63014"
+   inkscape:window-width="1920"
+   inkscape:window-height="1111"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_1" />
+
+<g
+   id="SVGRepo_bgCarrier"
+   stroke-width="0" />
+
+<g
+   id="SVGRepo_tracerCarrier"
+   stroke-linecap="round"
+   stroke-linejoin="round" />
+
+<g
+   id="SVGRepo_iconCarrier"
+   transform="matrix(0.96403231,0,0,0.96403231,1.1509659,1.1509659)"> <g
+   id="g9"> <path
+   d="M 32,17.244425 C 23.86394,17.244425 17.244425,23.86394 17.244425,32 17.244425,40.13606 23.86394,46.755575 32,46.755575 40.13606,46.755575 46.755575,40.13606 46.755575,32 46.755575,23.86394 40.13606,17.244425 32,17.244425 Z m 0,26.232133 c -6.328502,0 -11.476558,-5.148056 -11.476558,-11.476558 0,-6.328502 5.148056,-11.476558 11.476558,-11.476558 6.328502,0 11.476558,5.148056 11.476558,11.476558 0,6.328502 -5.148056,11.476558 -11.476558,11.476558 z"
+   id="path1"
+   style="stroke-width:0.819754" /> <path
+   d="m 30,2 v 8 c 0,1.104 0.896,2 2,2 1.104,0 2,-0.896 2,-2 V 2 C 34,0.896 33.104,0 32,0 30.896,0 30,0.896 30,2 Z"
+   id="path2" /> <path
+   d="m 32,52 c -1.104,0 -2,0.896 -2,2 v 8 c 0,1.104 0.896,2 2,2 1.104,0 2,-0.896 2,-2 v -8 c 0,-1.104 -0.896,-2 -2,-2 z"
+   id="path3" /> <path
+   d="m 62,30 h -8 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 h 8 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z"
+   id="path4" /> <path
+   d="m 12,32 c 0,-1.104 -0.896,-2 -2,-2 H 2 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 h 8 c 1.104,0 2,-0.896 2,-2 z"
+   id="path5" /> <path
+   d="m 50.586,10.586 -4,4 c -0.781,0.781 -0.781,2.047 0,2.828 C 46.976,17.805 47.488,18 48,18 c 0.512,0 1.024,-0.195 1.414,-0.586 l 4,-4 c 0.781,-0.781 0.781,-2.047 0,-2.828 -0.78,-0.781 -2.048,-0.781 -2.828,0 z"
+   id="path6" /> <path
+   d="m 14.586,46.586 -4,4 c -0.781,0.781 -0.781,2.047 0,2.828 C 10.976,53.805 11.488,54 12,54 c 0.512,0 1.024,-0.195 1.414,-0.586 l 4,-4 c 0.781,-0.781 0.781,-2.047 0,-2.828 -0.78,-0.781 -2.048,-0.781 -2.828,0 z"
+   id="path7" /> <path
+   d="m 49.414,46.586 c -0.78,-0.781 -2.048,-0.781 -2.828,0 -0.781,0.781 -0.781,2.047 0,2.828 l 4,4 C 50.976,53.805 51.488,54 52,54 c 0.512,0 1.024,-0.195 1.414,-0.586 0.781,-0.781 0.781,-2.047 0,-2.828 z"
+   id="path8" /> <path
+   d="m 10.586,10.586 c -0.781,0.781 -0.781,2.047 0,2.828 l 4,4 C 14.976,17.805 15.488,18 16,18 c 0.512,0 1.024,-0.195 1.414,-0.586 0.781,-0.781 0.781,-2.047 0,-2.828 l -4,-4 c -0.78,-0.781 -2.048,-0.781 -2.828,0 z"
+   id="path9" /> </g> </g>
+
+</svg>
