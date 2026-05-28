@@ -123,9 +123,8 @@ This project demonstrates how weather-aware solar forecasting can help:
 
 ---
 
-## ⚡Screenshots
-
-(Add screenshots here after deployment)
+## ⚡Demonstration
+<img width="800" height="450" alt="Solar Forecaster Showcase" src="https://github.com/user-attachments/assets/019ec9dd-078e-4244-965e-abe694ca9865" />
 
 ---
 
